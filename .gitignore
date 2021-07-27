@@ -1,0 +1,17 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ReadFileSize/.vs/ReadFileSize/v16
+/ReadFileSize/ReadFileSize/ReadFileSize.vcxproj.filters
+/ReadFileSize/ReadFileSize/ReadFileSize.vcxproj
+*.user
+/ReadFileSize/ReadFileSize/res
+/ReadFileSize/ReadFileSize/Release/ReadFileSize.tlog
+/ReadFileSize/ReadFileSize/Release
+/ReadFileSize/Release
+/ReadFileSize/x64/Release
+/ReadFileSize/ReadFileSize/x64/Release/ReadFileSize.tlog
+/ReadFileSize/ReadFileSize/x64/Release
+/ReadFileSize/ReadFileSize/ReadFileSize.aps
+/ReadFileSize/ReadFileSize/ReadFileSize.rc
